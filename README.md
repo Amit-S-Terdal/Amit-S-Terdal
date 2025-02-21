@@ -66,9 +66,6 @@ Here are some projects and achievements that reflect my journey in cloud computi
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats Card -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amit-S-Terdal&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark)
-
 
 <!-- Top Languages Card -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-S-Terdal&layout=compact&theme=dark)
