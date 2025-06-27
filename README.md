@@ -6,7 +6,7 @@ I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a 
 - 🔭 I’m currently working on **Assignments**
 - 🌱 I’m currently learning **PYTHON**
 - 👯 I’m looking to collaborate on **AI/ML**
-- 💬 Ask me about **Football,Hip-pop**
+- 💬 Ask me about **Football,Hip-pop, R&B**
 - 😄 Pronouns: **HE/HIM**
 
 ## 🚀 My Skills
