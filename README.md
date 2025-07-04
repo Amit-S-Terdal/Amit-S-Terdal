@@ -3,12 +3,6 @@
 
 I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a strong foundation in cloud technologies. My interest lies in understanding cloud architecture, deployment, and optimization. Although I am at the beginning of my journey, I have been actively learning about key technologies such as AWS, Azure, Kubernetes, and Docker. My goal is to contribute to creating innovative cloud solutions that enhance scalability, efficiency, and security for businesses.
 
-- 🔭 I’m currently working on **Assignments**
-- 🌱 I’m currently learning **PYTHON**
-- 👯 I’m looking to collaborate on **AI/ML**
-- 💬 Ask me about **Football,Hip-pop, R&B**
-- 😄 Pronouns: **HE/HIM**
-
 ## 🚀 My Skills
 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -40,20 +34,6 @@ I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a 
 [![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
 [![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-121011?style=flat&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 [![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org/)
-
-
-**Languages:**
-- Python
-- Java
-- C++
-- Haskel
-
-**Tools & Platforms:**
-- Git & GitHub
-- Docker
-- Kubernetes
-- AWS
-- Azure
 
 ## 🏆 Projects & Achievements
 Here are some projects and achievements that reflect my journey in cloud computing and related fields:
