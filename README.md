@@ -9,10 +9,10 @@ I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a 
 
 ### Graduate Teaching Assistant At Cleveland State University  
 **Aug 2025 – Present**
-- Assist professors in teaching undergraduate CS courses (**Data Structures & Algorithms**).
-- Run weekly **lab sessions** and **office hours**; provide 1:1 support on challenging concepts.
-- Develop and **grade** assignments, projects, and exams with constructive feedback.
-- Create **tutorials** and supplemental materials to enhance student learning.
+- Assist professors in teaching undergraduate CS courses (**CIS 265: Data Structures & Algorithms**).
+- Run weekly **office hours**; provide 1:1 support on challenging concepts.
+- Develop and **grade** assignments, projects, and quizzes with constructive feedback.
+- Create supplemental materials to enhance student learning.
 
 ## 🎓 Education
 - **M.S., Computer Science**: *Cleveland State University, Ohio, USA* (Jan 2024 – Dec 2025) 
