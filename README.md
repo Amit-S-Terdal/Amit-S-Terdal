@@ -1,7 +1,22 @@
 # Hey there! I'm Amit S Terdal!👋✨
-## About Me!!!!
+## About Me!
+🎓 MS Computer Science @ Cleveland State University | Cloud & Cybersecurity Enthusiast
 
 I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a strong foundation in cloud technologies. My interest lies in understanding cloud architecture, deployment, and optimization. Although I am at the beginning of my journey, I have been actively learning about key technologies such as AWS, Azure, Kubernetes, and Docker. My goal is to contribute to creating innovative cloud solutions that enhance scalability, efficiency, and security for businesses.
+
+
+## 💼 Experience
+
+### Graduate Teaching Assistant At Cleveland State University  
+**Aug 2025 – Present**
+- Assist professors in teaching undergraduate CS courses (**Data Structures & Algorithms**).
+- Run weekly **lab sessions** and **office hours**; provide 1:1 support on challenging concepts.
+- Develop and **grade** assignments, projects, and exams with constructive feedback.
+- Create **tutorials** and supplemental materials to enhance student learning.
+
+## 🎓 Education
+- **M.S., Computer Science**: *Cleveland State University, Ohio, USA* (Jan 2024 – Dec 2025) 
+- **B.E., Computer Science & Engineering**: *KLE Technological University, Hubballi, India* (Aug 2018 – Jun 2023)
 
 ## 🚀 My Skills
 
@@ -35,14 +50,33 @@ I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a 
 [![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-121011?style=flat&logo=gnubash&logoColor=white)](https://en.wikipedia.org/wiki/Shell_script)
 [![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)](https://www.haskell.org/)
 
-## 🏆 Projects & Achievements
-Here are some projects and achievements that reflect my journey in cloud computing and related fields:
 
-**-PACMAN Game:** A Python-based game that showcases my growing skills in programming and problem-solving. This project is part of my broader exploration of software development techniques and cloud-based deployment strategies.
+## 🏆 Certifications
+- Microsoft Certified: **Azure Fundamentals (AZ-900)**
+- Microsoft Certified: **Security, Compliance & Identity Fundamentals (SC-900)**
+- Microsoft Certified: **Azure AI Fundamentals (AI-900)**
+- **AWS Cloud 101** — Introduction to Cloud Computing
+- **Cisco** — Cybersecurity Essentials & **Ethical Hacking**
 
-**-Cloud Security Innovations:** Currently researching and developing advanced solutions to enhance computer security through innovative hardware-based methods. This project aligns with my goal of improving cloud security and optimizing system efficiency.
 
-**-AI/ML Exploration:** Diving into machine learning and artificial intelligence to understand how these technologies can be integrated into cloud solutions. This exploration helps me stay at the forefront of AI advancements and their applications in cloud environments.
+## 📂 Projects & Achievements
+
+**Real-time DDoS Detection in SDN**  
+Built ML + ensemble models for traffic analysis, achieving **~98% accuracy** and **25% fewer false positives**.
+
+**Inventory FIFO System (Django + QR)**  
+Automated tracking and retrieval; reduced dispatch errors by **30%** and search time by **50%**.
+
+**Cloud Security Research (In Progress)**  
+Exploring **Intel SGX**, **ARM TrustZone**, **AMD SEV** and **quantum-resistant cryptography** for improved cloud data protection.
+
+**PACMAN Game (Python)**  
+Fun project showcasing problem-solving, OOP, and deployment experimentation.
+
+**AI/ML Exploration**  
+Investigating how AI/ML can be integrated into cloud solutions for scalability and security.
+
+
 
 ## 📊 GitHub Stats
 
@@ -71,4 +105,8 @@ Curious about what I've been up to on GitHub? Check out my activity graph to see
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-s-terdal-89a52a329)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AmitTerdal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Amit-S-Terdal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amitterdal2906@gmail.com)
+
+
 
