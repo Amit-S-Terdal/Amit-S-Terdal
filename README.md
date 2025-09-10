@@ -55,8 +55,8 @@ I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a 
 - Microsoft Certified: **Azure Fundamentals (AZ-900)**
 - Microsoft Certified: **Security, Compliance & Identity Fundamentals (SC-900)**
 - Microsoft Certified: **Azure AI Fundamentals (AI-900)**
-- **AWS Cloud 101** — Introduction to Cloud Computing
-- **Cisco** — Cybersecurity Essentials & **Ethical Hacking**
+- **AWS Cloud 101**: Introduction to Cloud Computing
+- **Cisco**: Cybersecurity Essentials & **Ethical Hacking**
 
 
 ## 📂 Projects & Achievements
