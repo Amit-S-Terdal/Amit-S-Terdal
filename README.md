@@ -52,29 +52,68 @@ I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a 
 
 
 ## 🏆 Certifications
-- Microsoft Certified: **Azure Fundamentals (AZ-900)**
-- Microsoft Certified: **Security, Compliance & Identity Fundamentals (SC-900)**
-- Microsoft Certified: **Azure AI Fundamentals (AI-900)**
-- **AWS Cloud 101**: Introduction to Cloud Computing
-- **Cisco**: Cybersecurity Essentials & **Ethical Hacking**
+
+- <a href="https://learn.microsoft.com/en-gb/users/amitsureshterdal-0506/credentials/a3bc89f18bda1a7d?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+     title="Microsoft Certified: Azure Fundamentals (AZ‑900)"
+     target="_blank" rel="noopener noreferrer">
+    Microsoft Certified: **Azure Fundamentals (AZ‑900)**
+  </a>
+
+- <a href="https://learn.microsoft.com/en-gb/users/amitsureshterdal-0506/credentials/e08e58ab4c58759e?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+     title="Microsoft Certified: Security, Compliance & Identity Fundamentals (SC‑900)"
+     target="_blank" rel="noopener noreferrer">
+    Microsoft Certified: **Security, Compliance & Identity Fundamentals (SC‑900)**
+  </a>
+
+- <a href="https://learn.microsoft.com/en-gb/users/amitsureshterdal-0506/credentials/8352f59793650f82?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+     title="Microsoft Certified: Azure AI Fundamentals (AI‑900)"
+     target="_blank" rel="noopener noreferrer">
+    Microsoft Certified: **Azure AI Fundamentals (AI‑900)**
+  </a>
+
+- <a href="https://www.credly.com/badges/698c649b-5cce-4c5f-a3a5-03c3771fca9a/linked_in_profile"
+     title="AWS Cloud 101: Introduction to Cloud Computing"
+     target="_blank" rel="noopener noreferrer">
+    AWS Cloud 101: **Introduction to Cloud Computing**
+  </a>
+
+- <a href="https://www.credly.com/badges/5c7be1b0-04e5-4f6d-b358-278c346f8722/linked_in_profile"
+     title="Cisco: Cybersecurity Essentials & Ethical Hacking"
+     target="_blank" rel="noopener noreferrer">
+    Cisco: **Cybersecurity Essentials & Ethical Hacking**
+  </a>
+
 
 
 ## 📂 Projects & Achievements
 
-**Real-time DDoS Detection in SDN**  
-Built ML + ensemble models for traffic analysis, achieving **~98% accuracy** and **25% fewer false positives**.
+- <a href="https://github.com/Amit-S-Terdal/Capstone-project-DDoS-Detection-in-SDN-with-ML-and-Ensemble-Models"
+     title="View on GitHub – Real-time DDoS Detection using ML and Ensemble Models"
+     target="_blank" rel="noopener noreferrer">
+    <strong>Real-time DDoS Detection in SDN</strong>
+  </a>  
+  Built ML + ensemble models for traffic analysis, achieving <strong>~98% accuracy</strong> and <strong>25% fewer false positives</strong>.
 
-**Inventory FIFO System (Django + QR)**  
-Automated tracking and retrieval; reduced dispatch errors by **30%** and search time by **50%**.
+- <a href="https://github.com/Amit-S-Terdal/Minor-Project-Barcoding-of-Inventory-System-for-FIFO-Adherence"
+     title="View on GitHub – Inventory System with Django & QR"
+     target="_blank" rel="noopener noreferrer">
+    <strong>Inventory FIFO System (Django + QR)</strong>
+  </a>  
+  Automated tracking and retrieval; reduced dispatch errors by <strong>30%</strong> and search time by <strong>50%</strong>.
 
-**Cloud Security Research (In Progress)**  
-Exploring **Intel SGX**, **ARM TrustZone**, **AMD SEV** and **quantum-resistant cryptography** for improved cloud data protection.
+- <a href="https://github.com/Amit-S-Terdal/Pac-Man-in-Python-with-PyGame"
+     title="View on GitHub – Pac-Man built with Python and PyGame"
+     target="_blank" rel="noopener noreferrer">
+    <strong>PACMAN Game (Python)</strong>
+  </a>  
+  Fun project showcasing problem-solving, OOP, and deployment experimentation.
 
-**PACMAN Game (Python)**  
-Fun project showcasing problem-solving, OOP, and deployment experimentation.
+- <strong>Cloud Security Research (In Progress)</strong>  
+  Exploring <strong>Intel SGX</strong>, <strong>ARM TrustZone</strong>, <strong>AMD SEV</strong>, and <strong>quantum-resistant cryptography</strong> for improved cloud data protection.
 
-**AI/ML Exploration**  
-Investigating how AI/ML can be integrated into cloud solutions for scalability and security.
+
+- <strong>AI/ML Exploration</strong>  
+  Investigating how AI/ML can be integrated into cloud solutions for scalability and security.
 
 
 
