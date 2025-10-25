@@ -1,5 +1,5 @@
 # Hey there! I'm Amit S Terdal!👋✨
-## About Me!!
+## About Me!!!
 🎓 MS Computer Science @ Cleveland State University | Cloud & Cybersecurity Enthusiast
 
 I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a strong foundation in cloud technologies. My interest lies in understanding cloud architecture, deployment, and optimization. Although I am at the beginning of my journey, I have been actively learning about key technologies such as AWS, Azure, Kubernetes, and Docker. My goal is to contribute to creating innovative cloud solutions that enhance scalability, efficiency, and security for businesses.
