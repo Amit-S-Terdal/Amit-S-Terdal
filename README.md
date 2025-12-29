@@ -1,9 +1,11 @@
 # Hey there! I'm Amit S Terdal!👋✨
+
 ## About Me!!!
-🎓 MS Computer Science @ Cleveland State University | Cloud & Cybersecurity Enthusiast
+🎓 Computer Science Master’s Graduate @ Cleveland State University |  | Cybersecurity • Cloud • Data 
 
-I am an enthusiastic newcomer to the field of Cloud Computing, eager to build a strong foundation in cloud technologies. My interest lies in understanding cloud architecture, deployment, and optimization. Although I am at the beginning of my journey, I have been actively learning about key technologies such as AWS, Azure, Kubernetes, and Docker. My goal is to contribute to creating innovative cloud solutions that enhance scalability, efficiency, and security for businesses.
+I am a Computer Science Master’s graduate with a strong foundation in systems, networking, and problem-solving, with applied experience across cybersecurity, cloud computing, and data-focused systems. My projects include hands-on work in network security, DDoS attack detection, and cloud platforms such as AWS and Azure, as well as Python-based analysis and automation.
 
+I focus on roles that emphasize analysis, system reliability, security, and decision-making rather than heavy software development. I am particularly interested in opportunities in Cybersecurity Analysis, Cloud/IT Systems, Data Analysis, and Technical Product or Operations, where I can apply my technical foundation to deliver secure, efficient, and data-driven solutions.
 
 ## 💼 Experience
 
