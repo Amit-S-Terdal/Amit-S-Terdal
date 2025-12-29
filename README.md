@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://raw.githubusercontent.com/Amit-S-Terdal/banner/refs/heads/main/banner1.gif?token=GHSAT0AAAAAADKIRE3DTUGYQCA3AKRIMUZM2KR44VQ" alt="Animated Banner" width="1080">
+<img src="https://raw.githubusercontent.com/Amit-S-Terdal/banner/refs/heads/main/banner3.gif?token=GHSAT0AAAAAADKIRE3C66GQQKTSDNQ7FW5O2KR5IKQ" alt="Animated Banner" width="1080">
 </p>
 
 
