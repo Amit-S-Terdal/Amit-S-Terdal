@@ -123,10 +123,6 @@ I focus on roles that emphasize analysis, system reliability, security, and deci
 
 ## 📊 GitHub Stats
 
-
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amit-S-Terdal&layout=compact&theme=dark)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amit-S-Terdal/Amit-S-Terdal/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amit-S-Terdal/Amit-S-Terdal/output/github-snake.svg" />
