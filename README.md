@@ -57,7 +57,7 @@ I focus on roles that emphasize analysis, system reliability, security, and deci
 
 ## 🏆 Certifications
 
-- <a href="https://learn.microsoft.com/en-gb/users/amitsureshterdal-0506/credentials/a3bc89f18bda1a7d?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+- <a href="https://learn.microsoft.com/en-gb/users/amitsureshterdal-0506/credentials/8352f59793650f82?ref=https%3A%2F%2Fwww.linkedin.com%2F"
      title="Microsoft Certified: Azure Fundamentals (AZ‑900)"
      target="_blank" rel="noopener noreferrer">
     Microsoft Certified: **Azure Fundamentals (AZ‑900)**
@@ -69,7 +69,7 @@ I focus on roles that emphasize analysis, system reliability, security, and deci
     Microsoft Certified: **Security, Compliance & Identity Fundamentals (SC‑900)**
   </a>
 
-- <a href="https://learn.microsoft.com/en-gb/users/amitsureshterdal-0506/credentials/8352f59793650f82?ref=https%3A%2F%2Fwww.linkedin.com%2F"
+- <a href="https://learn.microsoft.com/en-gb/users/amitsureshterdal-0506/credentials/a3bc89f18bda1a7d?ref=https%3A%2F%2Fwww.linkedin.com%2F"
      title="Microsoft Certified: Azure AI Fundamentals (AI‑900)"
      target="_blank" rel="noopener noreferrer">
     Microsoft Certified: **Azure AI Fundamentals (AI‑900)**
