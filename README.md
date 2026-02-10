@@ -2,7 +2,7 @@
 <img src="https://github.com/Amit-S-Terdal/banner/blob/main/banner3.gif?raw=true" alt="Animated Banner" width="1080">
 </p>
 
-## About Me!!!!!
+## About Me!!!!!!
 🎓 Computer Science Master’s Graduate @ Cleveland State University | Cybersecurity • Cloud • Data 
 
 I am a Computer Science Master’s graduate with a strong foundation in systems, networking, and problem-solving, with applied experience across cybersecurity, cloud computing, and data-focused systems. My projects include hands-on work in network security, DDoS attack detection, and cloud platforms such as AWS and Azure, as well as Python-based analysis and automation.
