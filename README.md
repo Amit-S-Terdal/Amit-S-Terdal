@@ -1,7 +1,6 @@
 <p align="left">
 <img src="https://github.com/Amit-S-Terdal/banner/blob/main/banner3.gif?raw=true" alt="Animated Banner" width="1080">
 </p>
-
 ## About Me
 
 🎓 Computer Science Master’s Graduate @ Cleveland State University | Cybersecurity • Cloud • Data 
